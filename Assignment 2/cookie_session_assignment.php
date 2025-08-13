@@ -24,7 +24,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Cookie and Session Assignment</title>
+    <title> Evan Mendonsa Cookie and Session Assignment</title>
 </head>
 <body>
 <h1>Welcome Evan Elijah Mendonsa</h1>
@@ -48,3 +48,4 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 </form>
 </body>
 </html>
+
