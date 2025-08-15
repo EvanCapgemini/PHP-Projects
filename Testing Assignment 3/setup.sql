@@ -1,7 +1,0 @@
-CREATE TABLE autos (
-    autos_id INTEGER NOT NULL PRIMARY KEY AUTO_INCREMENT,
-    make VARCHAR(255),
-    model VARCHAR(255),
-    year INTEGER,
-    mileage INTEGER
-) ENGINE=InnoDB DEFAULT CHARSET=utf8;
